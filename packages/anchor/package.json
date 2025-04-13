@@ -39,7 +39,7 @@
   "dependencies": {
     "@draft-js-plugins/utils": "^4.0.0",
     "clsx": "^2.1.1",
-    "prepend-http": "3.0.1",
+    "prepend-http": "4.0.0",
     "prop-types": "^15.8.1",
     "tlds": "^1.255.0"
   },
